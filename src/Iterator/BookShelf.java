@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class BookShelf implements Aggregate{
     private ArrayList<Book> books;
-    public BookShelf(int maxsize){
+    public BookShelf(){
         this.books = new ArrayList<Book>();
     }
     public Book getBookAt(int index){
