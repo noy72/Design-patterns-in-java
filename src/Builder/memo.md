@@ -1,0 +1,6 @@
+Directorが与えられたBuilderに命令を出して文書を完成させる．
+完成した文書はBuilderのフィールドにある．
+
+Directorが大雑把な手順を持っていて，Builderが具体的な実装を持つ．
+BuilderはDirectorの命令に従って，フィールドに値を入れる．
+手順の詳細はDirectorによって隠蔽される．
