@@ -1,0 +1,4 @@
+program argumentはAbstractFactory.listfactory.ListFactory
+
+TemplateとかBuilderパターンに近い．
+抽象的なテンプレートに具体的な実装を差し込んで，雛形の上で任意の処理を行えるようにする．
