@@ -1,0 +1,3 @@
+ManagerのHashMapに登録したProductをcreateで複製して返す．
+
+cloneメソッドは浅いコピーを行う．
