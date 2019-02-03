@@ -7,6 +7,8 @@ BuilderパターンやFactoryパターンっぽいよね．よくわからない
 機能の継承と実装の継承を分ける
 - Builder  
 手順を書いておいて，処理は(Directorが)具体的な実装を持つインスタンスに投げる
+- Chain of responsibility
+たらい回し
 - Composite  
 入れ子にする
 - Decorator
