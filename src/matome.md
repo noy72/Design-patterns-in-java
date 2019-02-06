@@ -8,11 +8,13 @@ BuilderパターンやFactoryパターンっぽいよね．よくわからない
 - Builder  
 手順を書いておいて，処理は(Directorが)具体的な実装を持つインスタンスに投げる
 - Chain of responsibility
-たらい回し
+たらい回し  
 - Composite  
 入れ子にする
 - Decorator
 ラッパーが包んで機能が増える
+- Facade  
+複雑なクラス間の呼び出しを見えないようにし，シンプルなインタフェースにする．
 - Factory  
 インスタンスの生成方法を抽象的に表したのが工場．工場を実装すればインスタンス生成ができる
 - Iterator  

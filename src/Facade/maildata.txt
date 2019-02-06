@@ -1,0 +1,3 @@
+alice@a.com=alice
+bob@a.com=bob
+mallory@a.com=mallory
