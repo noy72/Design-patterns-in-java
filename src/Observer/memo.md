@@ -1,0 +1,2 @@
+SubjectはObserverを保持しており，変更が起きた場合にObserverに伝える．
+Subjectからnotifyされたら，Observerが処理を行う．
