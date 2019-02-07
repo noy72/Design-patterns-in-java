@@ -7,11 +7,11 @@ BuilderパターンやFactoryパターンっぽいよね．よくわからない
 機能の継承と実装の継承を分ける
 - Builder  
 手順を書いておいて，処理は(Directorが)具体的な実装を持つインスタンスに投げる
-- Chain of responsibility
+- Chain of responsibility  
 たらい回し  
 - Composite  
 入れ子にする
-- Decorator
+- Decorator  
 ラッパーが包んで機能が増える
 - Facade  
 複雑なクラス間の呼び出しを見えないようにし，シンプルなインタフェースにする．
@@ -31,5 +31,5 @@ Cloneしてインスタンスを複製する
 アルゴリズムを変更する
 - Template  
 抽象クラスをテンプレートとして使う
-- Visitor
+- Visitor  
 処理をデータ構造から分離＋Iteratorっぽいの
