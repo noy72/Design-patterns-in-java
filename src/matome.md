@@ -19,6 +19,8 @@ BuilderパターンやFactoryパターンっぽいよね．よくわからない
 インスタンスの生成方法を抽象的に表したのが工場．工場を実装すればインスタンス生成ができる
 - Mediator  
 誰か一人が全体の処理を行う
+- Memento  
+スナップショットと復元
 - Observer  
 Publish-Subscribe pattern
 - Iterator  
