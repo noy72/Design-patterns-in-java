@@ -29,6 +29,8 @@ Publish-Subscribe pattern
 STLを思い浮かべるとわかる
 - Prototype  
 Cloneしてインスタンスを複製する
+- Proxy  
+必要な処理以外はProxyでぱっと処理する
 - Singleton  
 ひとつしかない
 - State  
