@@ -29,6 +29,8 @@ STLを思い浮かべるとわかる
 Cloneしてインスタンスを複製する
 - Singleton  
 ひとつしかない
+- State  
+状態をクラスで表す．状態の抽象化
 - Strategy  
 アルゴリズムを変更する
 - Template  
