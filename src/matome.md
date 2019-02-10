@@ -27,6 +27,8 @@ Mapを使ってValueを共有すれば無駄がない
 スナップショットと復元
 - Observer  
 Publish-Subscribe pattern
+- Interpreter  
+構文解析
 - Iterator  
 STLを思い浮かべるとわかる
 - Prototype  
