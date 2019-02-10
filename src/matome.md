@@ -8,7 +8,9 @@ BuilderパターンやFactoryパターンっぽいよね．よくわからない
 - Builder  
 手順を書いておいて，処理は(Directorが)具体的な実装を持つインスタンスに投げる
 - Chain of responsibility  
-たらい回し  
+たらい回し
+- Command  
+命令をインスタンスにし，それを管理する
 - Composite  
 入れ子にする
 - Decorator  
